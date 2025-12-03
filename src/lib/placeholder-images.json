@@ -1,0 +1,112 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "A cozy and inviting background image of the Mana Coffee restaurant interior.",
+      "imageUrl": "https://images.unsplash.com/photo-1648462908676-8305f0eff8e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYWZlJTIwaW50ZXJpb3J8ZW58MHx8fHwxNzY0MDcxNDM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cafe interior"
+    },
+    {
+      "id": "about-image",
+      "description": "A picture of the friendly staff at Mana Coffee.",
+      "imageUrl": "https://images.unsplash.com/photo-1588675646184-f5b0b0b0b2de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxyZXN0YXVyYW50JTIwc3RhZmZ8ZW58MHx8fHwxNzY0MDcwODg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "restaurant staff"
+    },
+    {
+      "id": "daily-special-image",
+      "description": "Image of the daily special menu board.",
+      "imageUrl": "https://images.unsplash.com/photo-1603893662172-99ed0cea2a08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmb29kJTIwbWVudXxlbnwwfHx8fDE3NjQwOTk0Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "food menu"
+    },
+    {
+      "id": "gallery-1",
+      "description": "A delicious-looking hamburger from Mana Coffee.",
+      "imageUrl": "https://images.unsplash.com/photo-1761315413695-5dcd5c318b31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxoYW1idXJnZXIlMjBnb3VybWV0fGVufDB8fHx8MTc2NDA5OTQ2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hamburger gourmet"
+    },
+    {
+      "id": "gallery-2",
+      "description": "A beautifully prepared pasta dish.",
+      "imageUrl": "https://images.unsplash.com/photo-1579631542720-3a87824fff86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwYXN0YSUyMGRpc2h8ZW58MHx8fHwxNzY0MDI0ODgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pasta dish"
+    },
+    {
+      "id": "gallery-3",
+      "description": "A fresh and healthy vegetarian salad.",
+      "imageUrl": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx2ZWdldGFyaWFuJTIwc2FsYWR8ZW58MHx8fHwxNzY0MDk5NDY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vegetarian salad"
+    },
+    {
+      "id": "gallery-4",
+      "description": "A cup of artisanal coffee.",
+      "imageUrl": "https://images.unsplash.com/photo-1529892485617-25f63cd7b1e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsYXR0ZSUyMGFydHxlbnwwfHx8fDE3NjQwMDUxNTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "latte art"
+    },
+    {
+      "id": "gallery-5",
+      "description": "A salmon dish served at the restaurant",
+      "imageUrl": "https://images.unsplash.com/photo-1560717845-968823efbee1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzYWxtb24lMjBkaXNofGVufDB8fHx8MTc2NDA4OTM0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "salmon dish"
+    },
+    {
+      "id": "location-map",
+      "description": "A map showing the location of Mana Coffee.",
+      "imageUrl": "https://images.unsplash.com/photo-1446776899648-aa78eefe8ed0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjaXR5JTIwbWFwfGVufDB8fHx8MTc2NDA0OTMxNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city map"
+    },
+    {
+      "id": "gordon-bleu",
+      "description": "A picture of a Chicken Gordon Bleu.",
+      "imageUrl": "https://images.unsplash.com/photo-1581061090142-c2cd0ec9f021?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjaGlja2VuJTIwY29yZG9ufGVufDB8fHx8MTc2NDA5OTQ2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chicken cordon"
+    },
+    {
+      "id": "breakfast",
+      "description": "A picture of a typical breakfast.",
+      "imageUrl": "https://images.unsplash.com/photo-1640719397758-d5174f9d6905?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhbWVyaWNhbiUyMGJyZWFrZmFzdHxlbnwwfHx8fDE3NjQwOTk0Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "american breakfast"
+    },
+    {
+      "id": "pasta",
+      "description": "A picture of a pasta dish.",
+      "imageUrl": "https://images.unsplash.com/photo-1600803907087-f56d462fd26b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxib2xvZ25lc2UlMjBwYXN0YXxlbnwwfHx8fDE3NjQwOTk0Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bolognese pasta"
+    },
+    {
+      "id": "salmon",
+      "description": "A picture of a salmon dish.",
+      "imageUrl": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxncmlsbGVkJTIwc2FsbW9ufGVufDB8fHx8MTc2NDA2NjExOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "grilled salmon"
+    },
+    {
+      "id": "qr-nequi",
+      "description": "QR code for Nequi payments.",
+      "imageUrl": "https://images.unsplash.com/photo-1571867424488-4565932edb41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxxciUyMGNvZGV8ZW58MHx8fHwxNzY0MDk4NjM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "qr code"
+    },
+    {
+      "id": "qr-daviplata",
+      "description": "QR code for Daviplata payments.",
+      "imageUrl": "https://images.unsplash.com/photo-1595079676339-1534801ad6cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxxciUyMGNvZGV8ZW58MHx8fHwxNzY0MDk4NjM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "qr code"
+    },
+    {
+      "id": "qr-bancolombia",
+      "description": "QR code for Bancolombia payments.",
+      "imageUrl": "https://images.unsplash.com/photo-1662383729882-e03ce8e00887?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxxciUyMGNvZGV8ZW58MHx8fHwxNzY0MDk4NjM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "qr code"
+    },
+    {
+      "id": "reservation-qr",
+      "description": "QR code to access the reservation page.",
+      "imageUrl": "https://images.unsplash.com/photo-1595079676339-1534801ad6cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxxciUyMGNvZGV8ZW58MHx8fHwxNzY0MDk4NjM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "qr code"
+    },
+    {
+      "id": "sunday-special",
+      "description": "A picture of the special sunday dish.",
+      "imageUrl": "https://images.unsplash.com/photo-1630564510791-1b8a156ec387?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxyb2FzdCUyMGNoaWNrZW58ZW58MHx8fHwxNzY0MDIyMDk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "roast chicken"
+    }
+  ]
+}
